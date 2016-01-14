@@ -12,6 +12,14 @@ mypackage.sk module
     :undoc-members:
     :show-inheritance:
 
+mypackage.sk2 module
+-------------------
+
+.. automodule:: mypackage.sk2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 mypackage.useful_1 module
 -------------------------
 
